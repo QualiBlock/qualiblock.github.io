@@ -1,1 +1,0 @@
-import{f as t,o as s,c as a,M as o,F as n}from"./entry.42bd43b1.js";const f=t({__name:"default",setup(r){return(e,l)=>(s(),a(n,null,[o(e.$slots,"header"),o(e.$slots,"main"),o(e.$slots,"footer")],64))}});export{f as default};
